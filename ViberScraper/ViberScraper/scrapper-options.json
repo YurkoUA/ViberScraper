@@ -1,0 +1,13 @@
+﻿{
+  "ViberAppId": "2414FC7A.Viber_p61zvh252yqyr!Viber.Universal",
+  "WinAppDriverUrl": "http://localhost:4723",
+
+  "TestPhoneNumber": "put a number that you know which is not in your contacts",
+  "TestContactName": "and its viber name",
+
+  "CountryCode": "+380",
+  "Codes": [ "95", "66" ],
+  "Start": 1,
+  "End": 14000,
+  "Template": "124{0}26"
+}
